@@ -2,4 +2,4 @@
 
 - Red Skull
 - Loki
-- Dr. Doom
+- Capitan America
